@@ -1,0 +1,32 @@
+{
+  "name": "iledzka-readme",
+  "version": "1.0.0",
+  "description": "A script that updated my readme file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iledzka/iledzka.git"
+  },
+  "keywords": [
+    "readme",
+    "react",
+    "native",
+    "javascript"
+  ],
+  "author": "Iza Ledzka <izaledzka@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iledzka/iledzka/issues"
+  },
+  "homepage": "https://github.com/iledzka/iledzka#readme",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "prettier": "2.8.1"
+  }
+}

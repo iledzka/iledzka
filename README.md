@@ -7,11 +7,18 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 
 ## 📚 Reading List
-- Currently reading
-{{CURRENTLY}}
-- Recently finished
-{{FINSHED}}
-- Planning to read next
-{{NEXT}}
 
+- Currently reading
+
+* [Atomic Habits by James Clear](https://assets.literal.club/4/cketre3ej30699jm0ydhd11wrq.jpg)
+* [Building Mobile Apps at Scale by Gergely Orosz](https://assets.literal.club/2/cktj9ian6191682a57a277qh3fs.jpg)
+
+- Recently finished
+
+* [The Phoenix Project by Gene Kim](https://assets.literal.club/2/ckntc7mqz18811rhjix7sbgug.jpg)
+* [Thinking, Fast and Slow by Daniel Kahneman](https://assets.literal.club/4/ckhdjxair26091llg3maog7m8.jpg)
+
+- Planning to read next
+
+* [Effective TypeScript by Dan Vanderkam](http://books.google.com/books/content?id=wD63DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
