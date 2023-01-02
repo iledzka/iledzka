@@ -64,7 +64,7 @@ const convertToMarkdown = async (readingStatus) => {
   const books = await fetchBooks(readingStatus);
   return books
     .map(
-      (book) => `* [${book.title} by ${book.authors[0].name}](${book.cover})`
+      (book) => `* [${book.title} by ${book.authors.map(a => `${a.name}`).join(', ')}](${book.cover})`
     )
     .join("\n");
 };
