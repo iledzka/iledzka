@@ -42,7 +42,7 @@ const fetchBooks = (readingStatus) =>
 		}
       `,
       variables: {
-        limit: 2,
+        limit: 4,
         readingStatus,
         handle: "izaledzka",
         offset: 0,
