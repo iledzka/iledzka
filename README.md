@@ -10,16 +10,16 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ### Currently reading
 
-* [Learning Patterns by Addy Osmani](http://books.google.com/books/content?id=BnJLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+* [Learning Patterns by Addy Osmani, Lydia Hallie](http://books.google.com/books/content?id=BnJLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 * [Atomic Habits by James Clear](https://assets.literal.club/4/cketre3ej30699jm0ydhd11wrq.jpg)
 * [Building Mobile Apps at Scale by Gergely Orosz](https://assets.literal.club/2/cktj9ian6191682a57a277qh3fs.jpg)
 
 ### Recently finished
 
+* [Od jednego Lucypera by Anna Dziewit-Meller](https://assets.literal.club/4/ckt1wj6lt283859557ao2xx2ua2.jpg)
 * [Eloquent JavaScript by Marijn Haverbeke](https://assets.literal.club/4/ckpzvokqh746921rjmz1uhdov5.jpg)
-* [The Phoenix Project by Gene Kim](https://assets.literal.club/2/ckntc7mqz18811rhjix7sbgug.jpg)
+* [The Phoenix Project by Gene Kim, George Spafford, Kevin Behr](https://assets.literal.club/2/ckntc7mqz18811rhjix7sbgug.jpg)
 * [Thinking, Fast and Slow by Daniel Kahneman](https://assets.literal.club/4/ckhdjxair26091llg3maog7m8.jpg)
-* [How to Win Friends and Influence People by Dale Carnegie](https://assets.literal.club/2/cketpjwmm16051jm0y6zdk5ouo.jpg)
 
 ### Planning to read next
 
