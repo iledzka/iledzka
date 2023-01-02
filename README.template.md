@@ -8,15 +8,15 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ## 📚 Reading List
 
-- Currently reading
+### Currently reading
 
 IS_READING
 
-- Recently finished
+### Recently finished
 
 FINISHED
 
-- Planning to read next
+### Planning to read next
 
 WANTS_TO_READ
 
