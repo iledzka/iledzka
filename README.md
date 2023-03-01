@@ -22,6 +22,7 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ### Planning to read next
 
+* [When You Greet Me I Bow by Norman Fischer](https://assets.literal.club/2/ckwd2jcp268345114xq574bcql2.jpg)
 * [Black Box Thinking: Why Most People Never Learn from Their Mistakes--But Some Do by Matthew Syed](https://assets.literal.club/2/ckpsnmxv6121401rjm86qamzxk.jpg)
 * [Effective TypeScript by Dan Vanderkam](http://books.google.com/books/content?id=wD63DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 
