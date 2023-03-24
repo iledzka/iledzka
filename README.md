@@ -23,6 +23,7 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ### Planning to read next
 
+* [Cracking the Coding Interview by Gayle Laakmann McDowell](https://assets.literal.club/2/ckrp0uvii898474178f8ypmdex6.jpg)
 * [When You Greet Me I Bow by Norman Fischer](https://assets.literal.club/2/ckwd2jcp268345114xq574bcql2.jpg)
 * [Black Box Thinking: Why Most People Never Learn from Their Mistakes--But Some Do by Matthew Syed](https://assets.literal.club/2/ckpsnmxv6121401rjm86qamzxk.jpg)
 
