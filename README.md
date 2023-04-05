@@ -10,6 +10,7 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ### Currently reading
 
+* [Black Box Thinking: Why Most People Never Learn from Their Mistakes--But Some Do by Matthew Syed](https://assets.literal.club/2/ckpsnmxv6121401rjm86qamzxk.jpg)
 * [Effective TypeScript by Dan Vanderkam](http://books.google.com/books/content?id=wD63DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
 * [Atomic Habits by James Clear](https://assets.literal.club/4/cketre3ej30699jm0ydhd11wrq.jpg)
 * [Building Mobile Apps at Scale by Gergely Orosz](https://assets.literal.club/2/cktj9ian6191682a57a277qh3fs.jpg)
@@ -23,7 +24,7 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ### Planning to read next
 
+* [The 48 Laws of Power by Robert Greene](https://assets.literal.club/4/ckpptwabn1143271givhm0ndcyt.jpg)
 * [Cracking the Coding Interview by Gayle Laakmann McDowell](https://assets.literal.club/2/ckrp0uvii898474178f8ypmdex6.jpg)
 * [When You Greet Me I Bow by Norman Fischer](https://assets.literal.club/2/ckwd2jcp268345114xq574bcql2.jpg)
-* [Black Box Thinking: Why Most People Never Learn from Their Mistakes--But Some Do by Matthew Syed](https://assets.literal.club/2/ckpsnmxv6121401rjm86qamzxk.jpg)
 
