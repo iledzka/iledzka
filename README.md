@@ -11,7 +11,7 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 ### Currently reading
 
 * [Black Box Thinking: Why Most People Never Learn from Their Mistakes--But Some Do by Matthew Syed](https://assets.literal.club/2/ckpsnmxv6121401rjm86qamzxk.jpg)
-* [Effective TypeScript by Dan Vanderkam](http://books.google.com/books/content?id=wD63DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+* [Effective TypeScript by Dan Vanderkam](https://assets.literal.club/cover/1/ckrp10nym931824178f5lnpr6ze.jpg)
 * [Building Mobile Apps at Scale by Gergely Orosz](https://assets.literal.club/2/cktj9ian6191682a57a277qh3fs.jpg)
 
 ### Recently finished
