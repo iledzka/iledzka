@@ -23,7 +23,8 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ### Planning to read next
 
+* [Indistractable by Nir Eyal](https://assets.literal.club/4/ckpipam7501003wlirhmcui8y.jpg)
+* [Hooked by Nir Eyal, Ryan Hoover](https://assets.literal.club/2/ckhdifrx203170zkh1eruejhu.jpg)
 * [The 48 Laws of Power by Robert Greene](https://assets.literal.club/4/ckpptwabn1143271givhm0ndcyt.jpg)
 * [Cracking the Coding Interview by Gayle Laakmann McDowell](https://assets.literal.club/2/ckrp0uvii898474178f8ypmdex6.jpg)
-* [When You Greet Me I Bow by Norman Fischer](https://assets.literal.club/2/ckwd2jcp268345114xq574bcql2.jpg)
 
