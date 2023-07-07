@@ -23,8 +23,8 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ### Planning to read next
 
+* [Drunk Tank Pink by Adam Alter](https://assets.literal.club/1/ckrukvxfo1136441esvrydrclkh.jpg)
+* [The Slight Edge by Jeff Olson](https://assets.literal.club/4/ckruk88kg1086001esvrdutzmxe.jpg)
 * [Indistractable by Nir Eyal](https://assets.literal.club/4/ckpipam7501003wlirhmcui8y.jpg)
 * [Hooked by Nir Eyal, Ryan Hoover](https://assets.literal.club/2/ckhdifrx203170zkh1eruejhu.jpg)
-* [The 48 Laws of Power by Robert Greene](https://assets.literal.club/4/ckpptwabn1143271givhm0ndcyt.jpg)
-* [Cracking the Coding Interview by Gayle Laakmann McDowell](https://assets.literal.club/2/ckrp0uvii898474178f8ypmdex6.jpg)
 
