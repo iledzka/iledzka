@@ -23,8 +23,8 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ### Planning to read next
 
+* [Shuggie Bain by Douglas Stuart](https://assets.literal.club/4/ckmca27b422511kklhvlghgqf.jpg)
 * [Drunk Tank Pink by Adam Alter](https://assets.literal.club/1/ckrukvxfo1136441esvrydrclkh.jpg)
 * [The Slight Edge by Jeff Olson](https://assets.literal.club/4/ckruk88kg1086001esvrdutzmxe.jpg)
 * [Indistractable by Nir Eyal](https://assets.literal.club/4/ckpipam7501003wlirhmcui8y.jpg)
-* [Hooked by Nir Eyal, Ryan Hoover](https://assets.literal.club/2/ckhdifrx203170zkh1eruejhu.jpg)
 
