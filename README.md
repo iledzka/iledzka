@@ -10,6 +10,7 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ### Currently reading
 
+* [The 48 Laws of Power by Robert Greene](https://assets.literal.club/4/ckpptwabn1143271givhm0ndcyt.jpg)
 * [Black Box Thinking: Why Most People Never Learn from Their Mistakes--But Some Do by Matthew Syed](https://assets.literal.club/2/ckpsnmxv6121401rjm86qamzxk.jpg)
 * [Effective TypeScript by Dan Vanderkam](https://assets.literal.club/cover/1/ckrp10nym931824178f5lnpr6ze.jpg)
 
