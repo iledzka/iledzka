@@ -10,18 +10,22 @@ I'm a software developer who enjoys building beautiful user interfaces. I specia
 
 ### Currently reading
 
-* [Learning Patterns by Addy Osmani, Lydia Hallie](http://books.google.com/books/content?id=BnJLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
-* [Atomic Habits by James Clear](https://assets.literal.club/4/cketre3ej30699jm0ydhd11wrq.jpg)
-* [Building Mobile Apps at Scale by Gergely Orosz](https://assets.literal.club/2/cktj9ian6191682a57a277qh3fs.jpg)
+* [Yellowface by R. F. Kuang](https://assets.literal.club/cover/5/cl5tmblnx336000hfmnbj5l5v0.jpg)
+* [How Proust Can Change Your Life by Alain De Botton](https://assets.literal.club/2/ckrkz3iva320371183sgbnorm75.jpg)
+* [Glucose Revolution by Jessie Inchauspe](http://books.google.com/books/content?id=gFg1EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+* [The 48 Laws of Power by Robert Greene](https://assets.literal.club/4/ckpptwabn1143271givhm0ndcyt.jpg)
 
 ### Recently finished
 
-* [Od jednego Lucypera by Anna Dziewit-Meller](https://assets.literal.club/4/ckt1wj6lt283859557ao2xx2ua2.jpg)
-* [Eloquent JavaScript by Marijn Haverbeke](https://assets.literal.club/4/ckpzvokqh746921rjmz1uhdov5.jpg)
-* [The Phoenix Project by Gene Kim, George Spafford, Kevin Behr](https://assets.literal.club/2/ckntc7mqz18811rhjix7sbgug.jpg)
-* [Thinking, Fast and Slow by Daniel Kahneman](https://assets.literal.club/4/ckhdjxair26091llg3maog7m8.jpg)
+* [After the Sun by Jonas Eika](https://assets.literal.club/2/ckt1qyfci659834h7auxrwdhl5.jpg)
+* [Bear Town by Fredrik Backman](https://assets.literal.club/4/ckr1ql3ay06cn01crpss7v0sd.jpg)
+* [Building Mobile Apps at Scale by Gergely Orosz](https://assets.literal.club/2/cktj9ian6191682a57a277qh3fs.jpg)
+* [Atomic Habits by James Clear](https://assets.literal.club/4/cketre3ej30699jm0ydhd11wrq.jpg)
 
 ### Planning to read next
 
-* [Effective TypeScript by Dan Vanderkam](http://books.google.com/books/content?id=wD63DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api)
+* [Outlive by Bill Gifford, Peter Attia](https://assets.literal.club/cover/2/clboqktr49982340hc72jwhqyz6.jpg)
+* [The Age of Magical Overthinking by Amanda Montell](https://assets.literal.club/cover/2/clplfmiz12094940hi5fthir3z6.jpg)
+* [Kwiaty w pudelku by Karolina Bednarz](https://assets.literal.club/2/ckrlmgdh6761445183s04n10871.jpg)
+* [A Day in the Life of Abed Salama by Nathan Thrall](https://literal-app-assets.ams3.cdn.digitaloceanspaces.com/production/covers/useruploads/clp9u8di0003m0hti69xo7lbm.jpeg)
 
